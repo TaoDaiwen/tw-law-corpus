@@ -1,0 +1,45 @@
+{
+  "2000.05.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@892700;0004;0004",
+      "desc": "89卷27期3086號 4~4頁",
+      "progress": "一讀",
+      "committee": "衛生",
+      "misc": {
+        "content": "150-162",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcccec8cfcfc5cecacfd2cec9cd"
+      }
+    }
+  ],
+  "2000.12.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@900505;0435;0467",
+      "desc": "90卷5期3139號五冊 435~467頁",
+      "progress": "委員會審查",
+      "committee": "衛生"
+    }
+  ],
+  "2001.01.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@900502;0488;0515",
+      "desc": "90卷5期3139號二冊 488~515頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "衛生",
+      "misc": {
+        "content": "318-342",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcbcec7cfcec5cccec7d2cccbcd"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@900502;0515;0515",
+      "desc": "90卷5期3139號二冊 515~515頁",
+      "progress": "三讀",
+      "committee": "衛生"
+    }
+  ],
+  "unknown": [
+    {
+      "error": "..."
+    }
+  ]
+}

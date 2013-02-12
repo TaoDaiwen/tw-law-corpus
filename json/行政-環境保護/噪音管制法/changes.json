@@ -1,0 +1,154 @@
+{
+  "unknown": [
+    {
+      "error": "...",
+      "misc": {
+        "content": "1210-1215",
+        "link": "/lgcgi/lgmeetimage?cfcec9c6cfc7cfcfc5cecdcecfd2cecdceca"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "38-50",
+        "link": "/lgcgi/lgmeetimage?cfcec7cdcec6cfcfc5ccc7d2cacf"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "549-552",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfcdcfcec5cacbc6d2cacacd"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "78-81",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfc6cfccc5c8c7d2c7ce"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "1-342",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfcacfcbc5ced2cccbcd"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "81-100",
+        "link": "/lgcgi/lgmeetimage?cfcacfcdcecccfcec5c7ced2cecfcf"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    }
+  ],
+  "2008.02.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@970200;0009;0009",
+      "desc": "97卷2期3613號 9~9頁",
+      "progress": "一讀",
+      "committee": "衛生",
+      "misc": {
+        "content": "85-98",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcecfcdcfccc5c7cad2c6c7"
+      }
+    }
+  ],
+  "2008.05.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@972300;0005;0005",
+      "desc": "97卷23期3634號 5~5頁",
+      "progress": "一讀",
+      "committee": "衛生",
+      "misc": {
+        "content": "200-201",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcecfc6cfcec5cdcfcfd2cdcfce"
+      }
+    }
+  ],
+  "2008.05.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@973200;0197;0232",
+      "desc": "97卷32期3643號 197~232頁",
+      "progress": "委員會審查",
+      "committee": "衛生"
+    }
+  ],
+  "2008.10.02": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@975202;0433;0465",
+      "desc": "97卷52期3663號二冊 433~465頁",
+      "progress": "委員會審查",
+      "committee": "衛生"
+    }
+  ],
+  "2008.11.11": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@976300;0102;0144",
+      "desc": "97卷63期3674號 102~144頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "衛生"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@976300;0144;0144",
+      "desc": "97卷63期3674號 144~144頁",
+      "progress": "三讀",
+      "committee": "衛生"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "1973.12.18": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6252970001;0002;0002",
+      "desc": "62卷97期653號 2~2頁",
+      "progress": "一讀",
+      "committee": "內政 經濟"
+    }
+  ],
+  "1973.12.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6353200002;0010;0017",
+      "desc": "63卷20期676號 10~17頁",
+      "progress": "委員會審查",
+      "committee": "內政 經濟"
+    }
+  ],
+  "1973.12.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6353210002;0009;0018",
+      "desc": "63卷21期677號 9~18頁",
+      "progress": "委員會審查",
+      "committee": "內政 經濟"
+    }
+  ],
+  "1973.12.27": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6353220002;0026;0029",
+      "desc": "63卷22期678號 26~29頁",
+      "progress": "委員會審查",
+      "committee": "內政 經濟"
+    }
+  ],
+  "1974.01.08": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6352030001;0008;0028",
+      "desc": "63卷3期659號 8~28頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "內政 經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6352030001;0028;0044",
+      "desc": "63卷3期659號 28~44頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 經濟"
+    }
+  ],
+  "1974.01.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@63520400;0002;0022",
+      "desc": "63卷4期660號 2~22頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 經濟"
+    }
+  ],
+  "1974.11.10": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@63520400;0083;0085",
+      "desc": "63卷4期660號 83~85頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 經濟"
+    }
+  ],
+  "1974.01.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6352050001;0010;0010",
+      "desc": "63卷5期661號 10~10頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 經濟"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@6352050001;0015;0017",
+      "desc": "63卷5期661號 15~17頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 經濟"
+    }
+  ],
+  "1974.01.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@63520600;0003;0007",
+      "desc": "63卷6期662號 3~7頁",
+      "progress": "三讀",
+      "committee": "內政 經濟"
+    }
+  ],
+  "1999.11.26": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@885201;0012;0012",
+      "desc": "88卷52期3052號上冊 12~12頁",
+      "progress": "一讀",
+      "committee": "內政 經濟 司法",
+      "misc": {
+        "content": "470-645",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfc6cfcfc5cbc8cfd2c9cbca"
+      }
+    }
+  ],
+  "1999.12.13": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890100;0241;0280",
+      "desc": "89卷1期3060號 241~280頁",
+      "progress": "委員會審查",
+      "committee": "內政 經濟 司法"
+    }
+  ],
+  "2000.01.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890402;0145;0164",
+      "desc": "89卷4期3063號二冊 145~164頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "內政 經濟 司法",
+      "misc": {
+        "content": "576-592",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcecdcfcdc5cac8c9d2cac6cd"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@890402;0164;0165",
+      "desc": "89卷4期3063號二冊 164~165頁",
+      "progress": "三讀",
+      "committee": "內政 經濟 司法"
+    }
+  ]
+}

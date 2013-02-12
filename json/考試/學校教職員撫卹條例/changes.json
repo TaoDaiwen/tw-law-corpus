@@ -1,0 +1,153 @@
+{
+  "unknown": [
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "90-95",
+        "link": "/lgcgi/lgmeetimage?cfcec8cfcfcccfcfc5c6cfd2c6ca"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "346-351",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfcacfcec5cccbc9d2cccace"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "...",
+      "misc": {
+        "content": "144-154",
+        "link": "/lgcgi/lgmeetimage?cfcbcfcdcfc6cfcbc5cecbcbd2cecacb"
+      }
+    },
+    {
+      "error": "..."
+    },
+    {
+      "error": "..."
+    }
+  ],
+  "2008.11.21": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@976700;0041;0041",
+      "desc": "97卷67期3678號 41~41頁",
+      "progress": "一讀",
+      "committee": "司法及法制 教育及文化",
+      "misc": {
+        "content": "252-260",
+        "link": "/lgcgi/lgmeetimage?cfc8cfcdcecfcfcec5cdcacdd2cdc9cf"
+      }
+    }
+  ],
+  "2008.12.03": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@977202;0408;0424",
+      "desc": "97卷72期3683號二冊 408~424頁",
+      "progress": "委員會審查",
+      "committee": "司法及法制 教育及文化"
+    }
+  ],
+  "2008.12.19": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@977500;0032;0043",
+      "desc": "97卷75期3686號 32~43頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法及法制 教育及文化"
+    }
+  ],
+  "2008.12.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980301;0145;0145",
+      "desc": "98卷3期3689號一冊 145~145頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法及法制 教育及文化"
+    }
+  ],
+  "2009.01.06": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980302;0227;0227",
+      "desc": "98卷3期3689號二冊 227~227頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法及法制 教育及文化"
+    }
+  ],
+  "2009.01.09": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@980501;0173;0173",
+      "desc": "98卷5期3691號一冊 173~173頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法及法制 教育及文化"
+    }
+  ],
+  "2009.06.04": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@985500;0569;0572",
+      "desc": "98卷55期3741號 569~572頁",
+      "progress": "黨團協商",
+      "committee": "司法及法制 教育及文化"
+    }
+  ],
+  "2009.10.23": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@985500;0251;0254",
+      "desc": "98卷55期3741號 251~254頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "司法及法制 教育及文化"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@985500;0255;0255",
+      "desc": "98卷55期3741號 255~255頁",
+      "progress": "三讀",
+      "committee": "司法及法制 教育及文化"
+    }
+  ]
+}

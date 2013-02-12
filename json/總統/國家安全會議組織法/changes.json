@@ -1,0 +1,120 @@
+{
+  "1993.06.22": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@824100;0125;0133",
+      "desc": "82卷41期2640號 125~133頁",
+      "progress": "一讀",
+      "committee": "法制 國防 內政 外交"
+    }
+  ],
+  "1993.06.29": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@824301;0003;0015",
+      "desc": "82卷43期2642號上冊 3~15頁",
+      "progress": "一讀",
+      "committee": "法制 國防 內政 外交",
+      "misc": {
+        "content": "70-85",
+        "link": "/lgcgi/lgmeetimage?cfcdcfcececdcfcfc5c8cfd2c7ca"
+      }
+    }
+  ],
+  "1993.12.15": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@827503;0469;0530",
+      "desc": "82卷75期2674號下冊 469~530頁",
+      "progress": "委員會審查",
+      "committee": "法制 國防 內政 外交"
+    }
+  ],
+  "1993.12.20": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@830203;0118;0143",
+      "desc": "83卷2期2676號下冊 118~143頁",
+      "progress": "委員會審查",
+      "committee": "法制 國防 內政 外交"
+    }
+  ],
+  "1993.12.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@830201;0039;0043",
+      "desc": "83卷2期2676號上冊 39~43頁",
+      "progress": "二讀(廣泛討論)",
+      "committee": "法制 國防 內政 外交"
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@830201;0043;0043",
+      "desc": "83卷2期2676號上冊 43~43頁",
+      "progress": "三讀",
+      "committee": "法制 國防 內政 外交"
+    }
+  ],
+  "1995.01.17": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@840603;0322;0346",
+      "desc": "84卷06期2736號下冊 322~346頁",
+      "progress": "補正",
+      "committee": "法制 國防 內政 外交"
+    }
+  ],
+  "2002.04.30": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913001;0006;0006",
+      "desc": "91卷30期3226號上冊 6~6頁",
+      "progress": "一讀",
+      "committee": "法制",
+      "misc": {
+        "content": "334-336",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfc6cfcfc5cccccbd2ccccc9"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@913001;0008;0008",
+      "desc": "91卷30期3226號上冊 8~8頁",
+      "progress": "一讀",
+      "committee": "法制",
+      "misc": {
+        "content": "504-508",
+        "link": "/lgcgi/lgmeetimage?cfcacfcecfc6cfcfc5cacfcbd2cacfc7"
+      }
+    }
+  ],
+  "2003.03.14": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@921300;0002;0002",
+      "desc": "92卷13期3287號 2~2頁",
+      "progress": "一讀",
+      "committee": "法制",
+      "misc": {
+        "content": "178-186",
+        "link": "/lgcgi/lgmeetimage?cfcacfcccfcccfcec5cec8c7d2cec7c9"
+      }
+    }
+  ],
+  "2003.03.24": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@921803;0107;0147",
+      "desc": "92卷18期3292號下冊 107~147頁",
+      "progress": "委員會審查",
+      "committee": "法制"
+    }
+  ],
+  "2003.06.05": [
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@923401;0114;0141",
+      "desc": "92卷34期3308號一冊 114~141頁",
+      "progress": "二讀(逐條討論)",
+      "committee": "法制",
+      "misc": {
+        "content": "116-144",
+        "link": "/lgcgi/lgmeetimage?cfcacfcccecacfccc5cecec9d2cecbcb"
+      }
+    },
+    {
+      "link": "http://lis.ly.gov.tw/ttscgi/lgimg?@923401;0141;0141",
+      "desc": "92卷34期3308號一冊 141~141頁",
+      "progress": "三讀",
+      "committee": "法制"
+    }
+  ]
+}
