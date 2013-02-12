@@ -14,4 +14,4 @@
 2. 分析每個法律的「修正沿革」，依格式取出條文訂定的內容、時間、理由等。
 3. 將解析出來的「時間線」轉換成 git repo，之後上傳至 github。
 
-原始程式碼：https://github.com/victorhsieh/twlaw
+原始程式碼：https://github.com/g0v/twlaw
